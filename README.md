@@ -12,6 +12,6 @@ sending funds into the vault, which raises the value of every share.
 
 ## Task (about 45 minutes)
 
-1. Review `src/LockedVault.sol`. Talk us through what it does.
+1. Review `src/FlexVault.sol`. Talk us through what it does.
 2. The existing tests pass. Are they enough? What's missing?
 3. Find any issues. For each one: explain the impact, prove it with a Foundry test, and propose a fix.
