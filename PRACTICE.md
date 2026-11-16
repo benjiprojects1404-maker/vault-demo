@@ -7,8 +7,8 @@ after setup. Nothing here touches a wallet or a real network.
 ## Setup (once)
 
 ```bash
-git clone https://github.com/benjiprojects1404-maker/vault-practice.git
-cd vault-practice
+git clone https://github.com/benjiprojects1404-maker/vault-demo.git
+cd vault-demo
 ./setup.sh          # downloads forge-std and OpenZeppelin, then runs every test
 ```
 
